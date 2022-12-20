@@ -1,0 +1,19 @@
+body{
+    background-color: coral;
+    
+}
+
+img{
+    
+    width: 200px;
+    max-width: 100%;
+}
+
+p{
+    font-style: oblique;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h1{
+    font-size: 30px;
+}

@@ -1,0 +1,72 @@
+body{
+    background-image: linear-gradient(rgba(114, 114, 223, 0.705), rgba(88,88,72,0.90)),url("fond-cv.jpg");
+    background-size:cover;
+    
+}
+.page{
+    width: 75%;
+    margin: auto;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size:  10px;
+}
+
+.infophoto{
+   display: flex;
+   justify-content: flex-start;
+   padding-bottom: 40px;
+}
+
+.info{
+
+}
+
+.photo{
+    display: flex;
+  justify-content: flex-end;
+}
+.photo img {
+    width: 40%;
+}
+.section{
+   display: flex;
+   align-items: center;
+}
+
+.sec-gauche{
+  font-weight: bold;
+}
+
+.sec-droite{
+padding-left: 40px;
+font-family:Arial, Helvetica, sans-serif;
+font-size: larger;
+}
+
+h2{
+   color: rgb(21, 221, 21); 
+   display: flex;
+   justify-content: flex-start;
+}
+
+.titre{
+   
+}
+
+.mb{
+line-height: 30px;
+}
+
+.mb2{
+   line-height: 16px;
+}
+
+.mb3{
+   line-height: 18px;
+}
+
+.mb4{
+   
+}
+p{
+   color: aliceblue;
+}

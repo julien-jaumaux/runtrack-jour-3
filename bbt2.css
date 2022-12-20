@@ -1,0 +1,31 @@
+body{
+    background-image: url("fond-bbt2.jpg");
+    margin: 0;
+    padding: 0;
+}
+
+html{
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+img{
+    height: auto;
+    max-width: 20%;
+    
+    
+}
+
+h1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
+
+p{
+    font-weight: bold;
+    font-style: italic;   
+    color: rgb(53, 49, 49);
+   
+}
+
